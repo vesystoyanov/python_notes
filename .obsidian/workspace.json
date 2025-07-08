@@ -11,14 +11,10 @@
             "id": "a35e0e0f26616595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐍 Python/⚙️1. Programming Basics/1. Въведение/📁 3. Създаване на проект в PyCharm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "📁 3. Създаване на проект в PyCharm"
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,16 +185,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a76190c498319ec",
+  "active": "a35e0e0f26616595",
   "lastOpenFiles": [
-    "obsidian_site/docs/web/html.md",
-    "obsidian_site/docs/web/css.md",
+    "images/Pasted image 20250708104917.png",
+    "images/Pasted image 20250708104441.png",
+    "images/Pasted image 20250708104255.png",
+    "images/Pasted image 20250708104239.png",
+    "images/Pasted image 20250708104226.png",
+    "images/Pasted image 20250708104141.png",
+    "images/Pasted image 20250708104125.png",
+    "images/Pasted image 20250708104112.png",
+    "images/Pasted image 20250708104101.png",
+    "images/Pasted image 20250708104046.png",
+    "images/Pasted image 20250708103833.png",
+    "New folder",
+    "README.md",
     "obsidian_site/docs/python/functions.md",
     "obsidian_site/docs/python/control.md",
     "obsidian_site/docs/python/basics.md",
+    "obsidian_site/docs/web/html.md",
+    "obsidian_site/docs/index.md",
+    "🐍 Python/⚙️1. Programming Basics/1. Въведение/📁 3. Създаване на проект в PyCharm.md",
+    "obsidian_site/docs/web/css.md",
     "obsidian_site/docs/web",
     "obsidian_site/docs/python",
-    "obsidian_site/docs/index.md",
     "obsidian_site/mkdocs.yml",
     "obsidian_site/docs",
     "obsidian_site",
@@ -212,20 +222,8 @@
     "obsidian_mkdocs/docs/index.md",
     "obsidian_mkdocs/mkdocs.yml",
     "obsidian_mkdocs/docs",
-    "obsidian_mkdocs",
     "🐍 Python/⚙️1. Programming Basics/1. Въведение/🧱 2. Инсталация на PyCharm.md",
-    "Pasted image 20250708103811.png",
     "🐍 Python/⚙️1. Programming Basics/1. Въведение/🐍 1. Инсталация на Python.md",
-    "🐍 Python/⚙️1. Programming Basics/1. Въведение/📁 3. Създаване на проект в PyCharm.md",
-    "Pasted image 20250708104917.png",
-    "Pasted image 20250708104441.png",
-    "Pasted image 20250708104255.png",
-    "Pasted image 20250708104239.png",
-    "Pasted image 20250708104226.png",
-    "Pasted image 20250708104141.png",
-    "Pasted image 20250708104125.png",
-    "Pasted image 20250708104112.png",
-    "Pasted image 20250708104101.png",
     "Welcome.md",
     "create a link.md",
     "2025-07-08.md",
